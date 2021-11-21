@@ -64,12 +64,17 @@ This is "Sample Insurance Claim Prediction Dataset" which based on "[Medical Cos
 
 ![image](https://user-images.githubusercontent.com/54996245/142758117-645be5bc-04e3-43f0-b21d-f1e051848a6e.png)
 
-**7. ROC Plots**
+**7. VIF & RFE Scores**
+  
+![image](https://user-images.githubusercontent.com/54996245/142758139-a8602c81-208b-4b4c-83ba-ff1cd361f298.png)
+
+  
+**8. ROC Plots**
 
 ![image](https://user-images.githubusercontent.com/54996245/141759915-f8195733-0f5c-40f7-a442-6fb8d079ac09.png)
 
 
-**8. ML Algorithm's Scores for the Dataset**
+**9. ML Algorithm's Scores for the Dataset**
 ![image](https://user-images.githubusercontent.com/54996245/142758050-7ac78f20-47f5-4c1c-b1e4-25df8b572da3.png)
 ![image](https://user-images.githubusercontent.com/54996245/142758046-3a9d358a-7dc3-4595-b64e-0c95ba4eaf56.png)
 
