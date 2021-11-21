@@ -71,7 +71,7 @@ This is "Sample Insurance Claim Prediction Dataset" which based on "[Medical Cos
   
 **8. ROC Plots**
 
-![image](https://user-images.githubusercontent.com/54996245/141759915-f8195733-0f5c-40f7-a442-6fb8d079ac09.png)
+![image](https://user-images.githubusercontent.com/54996245/142758161-7ac3bec8-c345-4f6e-9b49-3a2ddc303e52.png)
 
 
 **9. ML Algorithm's Scores for the Dataset**
