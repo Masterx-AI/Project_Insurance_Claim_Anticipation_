@@ -62,7 +62,7 @@ This is "Sample Insurance Claim Prediction Dataset" which based on "[Medical Cos
 
 **6. Correlation plot for features**
 
-![image](https://user-images.githubusercontent.com/54996245/141759715-06c1d620-fba5-406c-8968-b94494ce2b8c.png)
+![image](https://user-images.githubusercontent.com/54996245/142758117-645be5bc-04e3-43f0-b21d-f1e051848a6e.png)
 
 **7. ROC Plots**
 
