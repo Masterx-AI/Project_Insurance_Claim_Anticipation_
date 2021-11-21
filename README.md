@@ -69,8 +69,8 @@ This is "Sample Insurance Claim Prediction Dataset" which based on "[Medical Cos
 
 
 **8. ML Algorithm's Scores for the Dataset**
-![image](https://user-images.githubusercontent.com/54996245/141759947-88ce8f81-c4bc-4e0d-977b-73b8a5237e9f.png)
-![image](https://user-images.githubusercontent.com/54996245/141759958-cb5b259e-e012-479b-820c-816c62ab7cb7.png)
+![image](https://user-images.githubusercontent.com/54996245/142758050-7ac78f20-47f5-4c1c-b1e4-25df8b572da3.png)
+![image](https://user-images.githubusercontent.com/54996245/142758046-3a9d358a-7dc3-4595-b64e-0c95ba4eaf56.png)
 
 
 ### Here are some of the key outcomes of the project:
