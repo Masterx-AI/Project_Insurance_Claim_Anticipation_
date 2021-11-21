@@ -1,6 +1,6 @@
 # AI/ML Project - Insurance Claim Anticipation
 
-<p align="center"><img src="https://user-images.githubusercontent.com/54996245/141758659-95fbcedc-ecb2-4213-859c-765541a3ef3f.jpg" style="width: 1000px;"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/54996245/142757865-09060edf-1d5b-41e7-9d5e-0139c46899e7.jpg" style="width: 1000px;"/></p>
 
 ### Description:
 
