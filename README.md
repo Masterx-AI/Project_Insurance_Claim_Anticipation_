@@ -26,3 +26,13 @@ This is "Sample Insurance Claim Prediction Dataset" which based on "[Medical Cos
 - Understand the Dataset & cleanup (if required).
 - Build classification model to predict weather the insurance will be claimed or not.
 - Also fine-tune the hyperparameters & compare the evaluation metrics of vaious classification algorithms.
+
+## <center> Stractegic Plan of Action:
+**We aim to solve the problem statement by creating a plan of action, Here are some of the necessary steps:**
+1. Data Exploration
+2. Exploratory Data Analysis (EDA)
+3. Data Pre-processing
+4. Data Manipulation
+5. Feature Selection/Extraction
+6. Predictive Modelling
+7. Project Outcomes & Conclusion
