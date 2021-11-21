@@ -58,7 +58,7 @@ This is "Sample Insurance Claim Prediction Dataset" which based on "[Medical Cos
 
 **5. Data Retention after preforming preprocessing step**
 
-![image](https://user-images.githubusercontent.com/54996245/141759612-f7c76d72-5b27-4c0e-b209-bbfea185db04.png)
+![image](https://user-images.githubusercontent.com/54996245/142758112-5a2af1da-e51d-4dd5-8666-42e2f8d3d289.png)
 
 **6. Correlation plot for features**
 
