@@ -40,7 +40,8 @@ This is "Sample Insurance Claim Prediction Dataset" which based on "[Medical Cos
 ### Some Visuals of the Project:
 
 **1. Target Variable Distribution**
-<p align="left"><img src="https://user-images.githubusercontent.com/54996245/141759098-056607e4-8f0d-40e9-8bb4-4c006079c782.png" /></p>
+  
+<p align="left"><img src="https://user-images.githubusercontent.com/54996245/142758058-1ca7e77d-9227-4eb5-a5da-4fd43872ffcb.png" /></p>
 
 **2. Categorical Feature-set Distribution**
 
