@@ -44,13 +44,13 @@ This is "Sample Insurance Claim Prediction Dataset" which based on "[Medical Cos
 <p align="left"><img src="https://user-images.githubusercontent.com/54996245/142758058-1ca7e77d-9227-4eb5-a5da-4fd43872ffcb.png" /></p>
 
 **2. Categorical Feature-set Distribution**
-
-![image](https://user-images.githubusercontent.com/54996245/141759248-04c88851-7edc-46c6-8ae4-3c5498ef7061.png)
+  
+![image](https://user-images.githubusercontent.com/54996245/142758084-1598df8b-3cd5-4afe-89e0-0cea03cbe911.png)
 
 **3. Numerical Feature-set Distribution**
 
-![image](https://user-images.githubusercontent.com/54996245/141759303-b614aa1f-4923-437b-b927-06e795c4b4ae.png)
-![image](https://user-images.githubusercontent.com/54996245/141759315-c15fd9a9-81fa-4901-b6c4-65245379491d.png)
+![image](https://user-images.githubusercontent.com/54996245/142758090-de2594ba-37eb-4d77-a94f-301317ae549c.png)
+![image](https://user-images.githubusercontent.com/54996245/142758096-ed8f1713-b90d-4609-8e38-56e05c8b3c40.png)
 
 **4. Relationship between the Feature-set**
 
