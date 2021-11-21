@@ -4,8 +4,8 @@
 
 ### Description:
 
-A simple yet challenging project, to anticipate weather the insurace will be claimed or not.
-The complexity arises due the fact that dataset has less samples, & is slightly imbalanced.
+A simple yet challenging project, to anticipate whether the insurance will be claimed or not.
+The complexity arises due to the fact that the dataset has fewer samples, & is slightly imbalanced.
 Can you overcome these obstacles & build a good predictive model to classify them?
 
 **This data frame contains the following columns:**
