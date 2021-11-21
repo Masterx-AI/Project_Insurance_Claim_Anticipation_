@@ -22,3 +22,7 @@ Can you overcome these obstacles & build a good predictive model to classify the
 
 This is "Sample Insurance Claim Prediction Dataset" which based on "[Medical Cost Personal Datasets][1]" to update sample value on top.
 
+### Objective:
+- Understand the Dataset & cleanup (if required).
+- Build classification model to predict weather the insurance will be claimed or not.
+- Also fine-tune the hyperparameters & compare the evaluation metrics of vaious classification algorithms.
